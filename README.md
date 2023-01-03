@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @STARRYBOY3
-- 👀 I’m interested in ...
-- learning frontend and backend development
-- 🌱 I’m currently learning ...
-- javascript, html, css
-- 💞️ I’m looking to collaborate on ...
-- I dont know yet
-- 📫 How to reach me ...
-- dont know yet
+Hi
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STARRYBOY3&count_private=true)
 
 <!---
 STARRYBOY3/STARRYBOY3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
