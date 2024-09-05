@@ -11,6 +11,9 @@ When you realize your rust doesn't actually count towards your language use â˜ ï
 My current Projects:
 
 CYAFT (on hold)
+
 boc (on hold)
+
 Flags (active dev.)
+
 FemboyOS (testing)
