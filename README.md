@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-selfhosted-instance.vercel.app/api?username=Emonora&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-selfhosted-instance.vercel.app/api?username=Emonora&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
