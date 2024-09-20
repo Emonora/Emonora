@@ -9,8 +9,12 @@ My current Projects:
 
 CYAFT (on hold)
 
-boc (on hold)
+boc (Active development)
 
-Flags (active dev.)
+Flags (paused)
 
-FemboyOS (testing)
+FemboyOS (not active)
+
+Thrux desktop (semi-active)
+
+Thrux web (semi-active)
