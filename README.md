@@ -10,17 +10,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-My current Projects:
-
-CYAFT (on hold)
-
-boc (Active development)
-
-Flags (paused)
-
-FemboyOS (not active)
-
-Thrux desktop (semi-active)
-
-Thrux web (semi-active)
