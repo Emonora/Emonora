@@ -5,3 +5,5 @@
 Currently working on: Kel
 
 Currently OS: Arch Linux
+
+Current Technologies: Node.js, NPM, PNPM, bun, ts, next.js, react, better auth, prose-mirror, tailwindcss, rollup
